@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/findora-web-page/static/css/main.f855e6bc.css",
+    "main.js": "/findora-web-page/static/js/main.fe1cf4b5.js",
+    "static/js/453.ce0d3e27.chunk.js": "/findora-web-page/static/js/453.ce0d3e27.chunk.js",
+    "static/media/logo.svg": "/findora-web-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/findora-web-page/index.html",
+    "main.f855e6bc.css.map": "/findora-web-page/static/css/main.f855e6bc.css.map",
+    "main.fe1cf4b5.js.map": "/findora-web-page/static/js/main.fe1cf4b5.js.map",
+    "453.ce0d3e27.chunk.js.map": "/findora-web-page/static/js/453.ce0d3e27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.fe1cf4b5.js"
+  ]
+}
