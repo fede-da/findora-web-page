@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/findora-web-page/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/findora-web-page/static/js/main.01b01939.chunk.js",
-    "main.js.map": "/findora-web-page/static/js/main.01b01939.chunk.js.map",
-    "runtime~main.js": "/findora-web-page/static/js/runtime~main.605a3121.js",
-    "runtime~main.js.map": "/findora-web-page/static/js/runtime~main.605a3121.js.map",
-    "static/js/2.fd5371a8.chunk.js": "/findora-web-page/static/js/2.fd5371a8.chunk.js",
-    "static/js/2.fd5371a8.chunk.js.map": "/findora-web-page/static/js/2.fd5371a8.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/findora-web-page/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/findora-web-page/static/js/3.a29efab2.chunk.js.map",
+    "main.css": "/findora-web-page/static/css/main.99b69fcf.css",
+    "main.js": "/findora-web-page/static/js/main.baa2e072.js",
+    "static/js/453.ce0d3e27.chunk.js": "/findora-web-page/static/js/453.ce0d3e27.chunk.js",
+    "static/media/GothamMedium.ttf": "/findora-web-page/static/media/GothamMedium.0a910c0b9d50be6aa3dc.ttf",
+    "static/media/Gotham-Bold.otf": "/findora-web-page/static/media/Gotham-Bold.f9a5c9247af2c80333f4.otf",
+    "static/media/Gotham-Light.otf": "/findora-web-page/static/media/Gotham-Light.59aa40045d8df0b87a73.otf",
     "index.html": "/findora-web-page/index.html",
-    "precache-manifest.e2a1f96d1073fb706247f576a8dddab9.js": "/findora-web-page/precache-manifest.e2a1f96d1073fb706247f576a8dddab9.js",
-    "service-worker.js": "/findora-web-page/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/findora-web-page/static/css/main.435d5fe5.chunk.css.map",
-    "static/media/logo.svg": "/findora-web-page/static/media/logo.06e73328.svg"
-  }
+    "main.99b69fcf.css.map": "/findora-web-page/static/css/main.99b69fcf.css.map",
+    "main.baa2e072.js.map": "/findora-web-page/static/js/main.baa2e072.js.map",
+    "453.ce0d3e27.chunk.js.map": "/findora-web-page/static/js/453.ce0d3e27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99b69fcf.css",
+    "static/js/main.baa2e072.js"
+  ]
 }
