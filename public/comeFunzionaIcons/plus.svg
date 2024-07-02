@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Nuovo_campione_sfumatura_1);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#Nuovo_campione_sfumatura_1-2);
+      }
+    </style>
+    <linearGradient id="Nuovo_campione_sfumatura_1" data-name="Nuovo campione sfumatura 1" x1="0" y1="50" x2="100" y2="50" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1ab58a"/>
+      <stop offset="1" stop-color="#0e8cad"/>
+    </linearGradient>
+    <linearGradient id="Nuovo_campione_sfumatura_1-2" data-name="Nuovo campione sfumatura 1" x1="20" x2="80" gradientTransform="translate(100 100) rotate(-180)" xlink:href="#Nuovo_campione_sfumatura_1"/>
+  </defs>
+  <path class="cls-1" d="M50,10c22.0560760498,0,40,17.9439239502,40,40s-17.9439239502,40-40,40S10,72.0560760498,10,50,27.9439239502,10,50,10M50,0C22.3857688904,0,0,22.3857688904,0,50c0,27.6142272949,22.3857688904,50,50,50,27.6142272949,0,50-22.3857727051,50-50C100,22.3857688904,77.6142272949,0,50,0h0Z"/>
+  <path class="cls-2" d="M25,55h20v20c0,2.7612304688,2.23828125,5,5,5,2.7612304688,0,5-2.2387695312,5-5v-20h20c2.7612304688,0,5-2.2387695312,5-5,0-2.76171875-2.2387695312-5-5-5h-20v-20c0-2.76171875-2.2387695312-5-5-5-2.76171875,0-5,2.23828125-5,5v20h-20c-2.76171875,0-5,2.23828125-5,5,0,2.7612304688,2.23828125,5,5,5Z"/>
+</svg>

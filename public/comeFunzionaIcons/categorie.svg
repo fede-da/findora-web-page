@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Nuovo_campione_sfumatura_1);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#Nuovo_campione_sfumatura_1-2);
+      }
+
+      .cls-3 {
+        fill: url(#Nuovo_campione_sfumatura_1-4);
+      }
+
+      .cls-4 {
+        fill: url(#Nuovo_campione_sfumatura_1-3);
+      }
+    </style>
+    <linearGradient id="Nuovo_campione_sfumatura_1" data-name="Nuovo campione sfumatura 1" x1="55" y1="77.5" x2="100" y2="77.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1ab58a"/>
+      <stop offset="1" stop-color="#0e8cad"/>
+    </linearGradient>
+    <linearGradient id="Nuovo_campione_sfumatura_1-2" data-name="Nuovo campione sfumatura 1" x1="0" y1="22.5" x2="45" y2="22.5" xlink:href="#Nuovo_campione_sfumatura_1"/>
+    <linearGradient id="Nuovo_campione_sfumatura_1-3" data-name="Nuovo campione sfumatura 1" y1="22.5" y2="22.5" xlink:href="#Nuovo_campione_sfumatura_1"/>
+    <linearGradient id="Nuovo_campione_sfumatura_1-4" data-name="Nuovo campione sfumatura 1" x1="0" x2="45" xlink:href="#Nuovo_campione_sfumatura_1"/>
+  </defs>
+  <path class="cls-1" d="M92.5,62.5v30h-30v-30h30M100,55h-45v45h45v-45h0Z"/>
+  <path class="cls-2" d="M37.5,7.5v30H7.5V7.5h30M45,0H0v45h45V0h0Z"/>
+  <path class="cls-4" d="M77.5,7.5c8.2710266113,0,15,6.7289762497,15,15,0,8.271024704-6.7289733887,15-15,15s-15-6.728975296-15-15c0-8.2710237503,6.7289733887-15,15-15M77.5,0c-12.4264068604,0-22.5,10.073595047-22.5,22.5,0,12.4264030457,10.0735931396,22.5,22.5,22.5s22.5-10.0735969543,22.5-22.5c0-12.426404953-10.0735931396-22.5-22.5-22.5h0Z"/>
+  <path class="cls-3" d="M22.5,62.5c8.271024704,0,15,6.7289733887,15,15s-6.728975296,15-15,15c-8.2710237503,0-15-6.7289733887-15-15s6.7289762497-15,15-15M22.5,55c-12.426404953,0-22.5,10.0735931396-22.5,22.5s10.073595047,22.5,22.5,22.5c12.4264030457,0,22.5-10.0735931396,22.5-22.5s-10.0735969543-22.5-22.5-22.5h0Z"/>
+</svg>

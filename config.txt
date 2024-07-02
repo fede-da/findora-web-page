@@ -33,10 +33,15 @@
     "vite": "^5.2.3"
   },
   "scripts": {
-    "predeploy" : "vite build",
-    "deploy" : "gh-pages -d dist",
-    "dev": "vite",
-    "build": "vite build"
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "vite",  
+    "build": "vite build",  
+    "serve": "vite preview"  
   },
   "eslintConfig": {
     "extends": [

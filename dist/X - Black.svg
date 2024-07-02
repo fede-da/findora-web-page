@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1ab58a; /* Cambia il colore qui */
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="100 82.322 67.678 50 100 17.678 100 0 82.322 0 50 32.322 17.678 0 0 0 0 17.678 32.322 50 0 82.322 0 100 17.678 100 50 67.678 82.322 100 100 100 100 82.322"/>
+</svg>
